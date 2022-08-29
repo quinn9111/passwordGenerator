@@ -17,5 +17,8 @@
 * WHEN the password is generated
 * THEN the password is either displayed in an alert or written to the page
 
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/109930505/187113357-ed6450c3-9b90-445d-b5f2-f1384e5d4a23.png">
+
+
 Website: https://quinn9111.github.io/passwordGenerator/
 Github repo: git@github.com:quinn9111/passwordGenerator.git
